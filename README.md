@@ -1,10 +1,10 @@
 # AVAF-Net: Anti-View Attention-guided Feature Fusion for Defect Detection in Multi-Light Source Images 
-Inverse attention for defect detection
+Anti-view attention model for defect detection
 
 
 1st model: Attention based model
 2nd model: Transformer based model
-3rd model: Inverse attention based model (Proposed)
+3rd model: Anti-view attention based model (Proposed)
 
 
 
