@@ -2,9 +2,11 @@
 Anti-view attention model for defect detection
 
 
-1st model: Attention based model
-2nd model: Transformer based model
-3rd model: Anti-view attention based model (Proposed)
+- 1st model: Attention based model
+
+- 2nd model: Transformer based model
+
+- 3rd model: Anti-view attention based model (Proposed)
 
 
 
