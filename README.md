@@ -1,4 +1,4 @@
-# InverseAttentionforDefectDetection
+# AVAF-Net: Anti-View Attention-guided Feature Fusion for Defect Detection in Multi-Light Source Images 
 Inverse attention for defect detection
 
 
