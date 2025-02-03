@@ -1,9 +1,9 @@
 # AVAF-Net: Anti-View Attention-guided Feature Fusion for Defect Detection in Multi-Light Source Images 
 ### Anti-view attention model for defect detection
 - Baseline: Multi-view fusion (MVF): https://github.com/Xavierman/Fusion-of-multi-light-source-illuminated-images-for-defect-inspection
-- 1st model: Attention based model
-- 2nd model: Transformer based model
-- 3rd model: Anti-view attention based model (Proposed)
+- 1st model: Attention-based model
+- 2nd model: Transformer-based model
+- 3rd model: Anti-view attention-based model (Proposed)
 
 
 
@@ -30,3 +30,12 @@
 - Ensemble
   <img width="1302" alt="Image" src="https://github.com/user-attachments/assets/7d965e42-85f5-49e0-86bc-a2a24ea91592" />
 
+- Attention-based model
+  ![Image](https://github.com/user-attachments/assets/d2b82867-6c5b-4925-b4e2-ce75b1efbdcd)  
+
+- Trnsformer-based model
+  ![Image](https://github.com/user-attachments/assets/b85a9d05-b67a-4e5c-9964-9eac9424d17a)
+
+- Anti-View Attention-based model
+- 
+- 
