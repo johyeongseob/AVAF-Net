@@ -16,5 +16,5 @@
 ![Image](https://github.com/user-attachments/assets/158cb349-0190-4522-b071-a9fa48b39cda)
 
 - Single-view
-1. Down
+ * Down
 ![Image](https://github.com/user-attachments/assets/34b54803-c299-4954-b595-b574734f5232)
