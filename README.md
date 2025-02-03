@@ -28,5 +28,5 @@
     - ![image](https://github.com/user-attachments/assets/00f11c86-87fb-4ea5-89ca-8339ac2fce53)
 
 - Ensemble
-- 
+- <img width="1302" alt="Image" src="https://github.com/user-attachments/assets/7d965e42-85f5-49e0-86bc-a2a24ea91592" />
 
