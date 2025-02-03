@@ -9,3 +9,5 @@ Anti-view attention model for defect detection
 
 [Dataset download link] https://drive.google.com/drive/folders/1NvQ5vZvZMdpJN8s1ttp9ZaMZ13OgQbAa?usp=sharing<br>[Weights download link] https://drive.google.com/drive/folders/1FVbF3mjFJx-a3427OySH0EfhC32cLPC2?usp=sharing
 
+Baseline
+https://github.com/user-attachments/assets/158cb349-0190-4522-b071-a9fa48b39cda
