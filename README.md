@@ -7,7 +7,7 @@
 
 
 
-[Dataset download link] https://drive.google.com/drive/folders/1NvQ5vZvZMdpJN8s1ttp9ZaMZ13OgQbAa?usp=sharing<br>[Weights download link]
+[Dataset download link] https://drive.google.com/drive/folders/1NvQ5vZvZMdpJN8s1ttp9ZaMZ13OgQbAa?usp=sharing<br>[Weights download link] Summit 후 공개
 
 
 
