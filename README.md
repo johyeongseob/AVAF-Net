@@ -17,6 +17,6 @@
 
 - Single-view
     - Down
-      ![Image](https://github.com/user-attachments/assets/34b54803-c299-4954-b595-b574734f5232)
+![Image](https://github.com/user-attachments/assets/34b54803-c299-4954-b595-b574734f5232)
     - Up
-      ![Image](https://github.com/user-attachments/assets/8396eba6-7115-447d-82ad-8f920a7d070f)
+![Image](https://github.com/user-attachments/assets/8396eba6-7115-447d-82ad-8f920a7d070f)
